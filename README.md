@@ -10,10 +10,12 @@ This project focuses on analyzing an online retail dataset to generate meaningfu
 Online Retail Dataset provided as part of the Tata Virtual Internship on Forage.
 
 🛠️ Tools Used
+
 Excel – Data cleaning and preprocessing
 Power BI – Data visualization and dashboard creation
 
 🔧 Data Preparation
+
 Loaded and explored the dataset
 Handled missing and inconsistent values
 Cleaned and formatted data for analysis
@@ -23,22 +25,26 @@ Cleaned and formatted data for analysis
 The business generated approximately $9.66M in revenue, with 4.3K+ customers and 3.8K+ products.
 
 1.Seasonal Trends
+
 Sales remained stable during the first 8 months (~$622K average/month).
 Revenue increased significantly from September, peaking at $1.37M in November.
 Indicates strong seasonal demand in the last quarter of the year.
 
 
 2.Country-wise Performance
+
 Countries like Netherlands, Ireland, Germany, and France contributed significantly to revenue and sales volume.
 These regions offer strong opportunities for further growth.
 
 
 3.Customer Insights
+
 Revenue contribution is evenly distributed among top customers.
 The highest contributing customer only generated ~7% more than the second, indicating low dependency on a few customers.
 
 
 4.Regional Analysis
+
 High-performing regions: Europe and Australia
 Low demand observed in Asia, Africa, and Russia
 Suggests scope for expansion or targeted marketing in underperforming regions.
