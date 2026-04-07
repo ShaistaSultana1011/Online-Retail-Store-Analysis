@@ -12,6 +12,7 @@ Online Retail Dataset provided as part of the Tata Virtual Internship on Forage.
 🛠️ Tools Used
 
 Excel – Data cleaning and preprocessing
+
 Power BI – Data visualization and dashboard creation
 
 🔧 Data Preparation
