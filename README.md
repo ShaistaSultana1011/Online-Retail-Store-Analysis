@@ -25,6 +25,7 @@ Cleaned and formatted data for analysis
 
 
 📈 Key Insights
+
 The business generated approximately $9.66M in revenue, with 4.3K+ customers and 3.8K+ products.
 
 1.Seasonal Trends
