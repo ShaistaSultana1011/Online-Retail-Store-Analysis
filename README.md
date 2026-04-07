@@ -18,7 +18,9 @@ Power BI – Data visualization and dashboard creation
 🔧 Data Preparation
 
 Loaded and explored the dataset
-Handled missing and inconsistent values
+
+Handled missing and inconsistent 
+
 Cleaned and formatted data for analysis
 
 
