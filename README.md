@@ -51,6 +51,7 @@ Suggests scope for expansion or targeted marketing in underperforming regions.
 
 
 Recommendations
+
 Focus on promoting seasonal products to maximize revenue during high-demand periods.
 Build strong relationships with high-volume customers to improve retention and encourage repeat purchases.
 Expand and strengthen strategies in the European market, as it shows high potential for increasing sales.
